@@ -1,1 +1,6 @@
+As ferramentas de controle de versão de arquivo, embora já tenham algum tempo no mercado, começaram a ser popularmente difundidas somente na virada do século, pois eram difíceis de se usar e pouco confiáveis.
+Em 2005 Linus Torvalds (Criados do núcleo Linux, git, etc...) cansado das ferramentas disponíveis resolveu criar o Git, que na atualidade é o mais fácil e mais usado Sistema de versionamento.
+As principais vantagens do git são facilidade de merge, que se tornou algo trivial, além disso ele possibilita o trabalho offline com o download do repositório local na máquina de cada desenvolvedor, o que também diminui os custos com servidores dedicados,
+não menos importante, o git é um software livre e de código aberto.
+O git mudou a maneira como as coisas eram feitas e conquistou muitos adeptos e hoje é mantido pela comunidade gigantesca de colaboradores e tem como principal mantenedor Junio Hamano.
 
